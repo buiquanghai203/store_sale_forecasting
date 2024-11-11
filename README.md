@@ -9,4 +9,4 @@ Mô hình này áp dụng kỹ thuật gradient boosting để kết hợp nhi�
 
 Mô hình được đánh giá dựa trên RMSE (Root Mean Squared Log Error), một chỉ số quan trọng trong các bài toán dự báo thời gian để đo lường độ chính xác của dự đoán.
 Các kỹ thuật cross-validation và train-test split được sử dụng để kiểm tra tính tổng quát của mô hình.
-Link Colab để chạy trực tiếp : https://colab.research.google.com/drive/1rIL1_22F9PAsz_NVXrsyRI0ulOfRy-hc?usp=sharing
+
