@@ -1,6 +1,6 @@
-Bài toán đặt ra là dự báo doanh số bán hàng trong tương lai tại các cửa hàng bán lẻ. Tập dữ liệu được sử dụng trong notebook này chứa thông tin về doanh số bán hàng trong quá khứ cùng các thông tin đi kèm của một công ty có tên là Corporación Favorita, một nhà bán lẻ thực phẩm lớn ở Ecuador . Công ty này cũng hoạt động ở các quốc gia khác ở Nam Mỹ. Tập dữ liệu này được lấy từ một cuộc thi công khai trên trang web Kaggle. Vậy nên chúng ta có thể đưa ra các dự đoán và đánh giá hiệu quả của mô hình xây dựng với những người khác cùng tham gia cuộc thi này.
+Bài toán đặt ra là dự báo doanh số bán hàng trong tương lai tại các cửa hàng bán lẻ. Tập dữ liệu được sử dụng trong notebook này chứa thông tin về doanh số bán hàng trong quá khứ cùng các thông tin đi kèm của một công ty có tên là Corporación Favorita, một nhà bán lẻ thực phẩm lớn ở Ecuador . Công ty này cũng hoạt động ở các quốc gia khác ở Nam Mỹ. Tập dữ liệu này được lấy từ một cuộc thi công khai trên trang web Kaggle. Vậy nên chúng ta có đánh giá hiệu quả của mô hình xây dựng so với những người khác cùng tham gia cuộc thi này.
 
-Đây là đường dẫn của cuộc thi này -> https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+Dưới đây là đường dẫn của cuộc thi -> https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 
 <img src="https://raw.githubusercontent.com/EkremBayar/Kaggle/refs/heads/main/Images/CF.png" width="25%" />
