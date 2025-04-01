@@ -52,9 +52,9 @@ Mục tiêu chính của dự án này là **xây dựng mô hình học máy** 
 
 Mở file notebook (**store-sale-forecasting-final.ipynb**) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
 
-## Tuyên bố về Quyền sử dụng Dữ Liệu
+## Tuyên bố về Quyền sử dụng dữ liệu
 Dữ liệu chỉ được sử dụng cho mục đích học thuật và nghiên cứu phi thương mại. 
-
+Data Access and Use. You may access and use the Competition Data for non-commercial purposes only, including for participating in the Competition and on Kaggle.com forums, and for academic research and education.
 
 ## Tác giả
 - **Bùi Quang Hải**  
