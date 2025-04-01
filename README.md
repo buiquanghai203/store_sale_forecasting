@@ -52,6 +52,10 @@ Mục tiêu chính của dự án này là **xây dựng mô hình học máy** 
 
 Mở file notebook (**store-sale-forecasting-final.ipynb**) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
 
+## Tuyên bố về Quyền sử dụng Dữ Liệu
+Dữ liệu chỉ được sử dụng cho mục đích học thuật và nghiên cứu phi thương mại. 
+
+
 ## Tác giả
 - **Bùi Quang Hải**  
 - 🔗 GitHub: [github.com/buiquanghai203](https://github.com/buiquanghai203)
