@@ -49,26 +49,13 @@ Mục tiêu chính của dự án này là **xây dựng mô hình học máy** 
 ---
 
 ## Hướng dẫn sử dụng
-### 1. Cài đặt thư viện cần thiết
-```bash
-pip install -r requirements.txt
-```
+Mở notebook để xem phân tích và mô hình
 
-### 2. Chạy notebook chính
-- Mở file notebook (`store_sales_forecast.ipynb`) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
-
-### 3. Dự báo doanh số
-- Chạy mô hình trên tập test để tạo ra dự báo doanh số cho **15 ngày cuối cùng**.
-
-### 4. So sánh kết quả
-- Đánh giá hiệu suất mô hình dựa trên các metric như **RMSE**.
-
----
+Mở file notebook (store_sales_forecast.ipynb) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
 
 ## Tác giả
-- **Tên của bạn**  
-- 📧 Email: your.email@example.com  
-- 🔗 GitHub: [github.com/yourprofile](https://github.com/yourprofile)
+- **Bùi Quang Hải**  
+- 🔗 GitHub: [github.com/buiquanghai203](https://github.com/buiquanghai203)
 
 
 
