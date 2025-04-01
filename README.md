@@ -49,9 +49,8 @@ Mục tiêu chính của dự án này là **xây dựng mô hình học máy** 
 ---
 
 ## Hướng dẫn sử dụng
-Mở notebook để xem phân tích và mô hình
 
-Mở file notebook (store_sales_forecast.ipynb) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
+Mở file notebook (**store-sale-forecasting-final.ipynb**) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
 
 ## Tác giả
 - **Bùi Quang Hải**  
