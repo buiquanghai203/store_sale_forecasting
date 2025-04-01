@@ -52,7 +52,7 @@ Mục tiêu chính của dự án này là **xây dựng mô hình học máy** 
 
 Mở file notebook (**store-sale-forecasting-final.ipynb**) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
 
-Nếu một vài biểu đồ không hiển thị có thể xem notebook bằng đường dẫn online qua google colab sau.[NoteBook](https://colab.research.google.com/drive/1wDVvnSyOsw4j_g9qHO3MARoJ3Wtdcj8j?usp=sharing)
+Nếu một vài biểu đồ không hiển thị có thể xem notebook bằng đường dẫn online qua google colab sau: [NoteBook](https://colab.research.google.com/drive/1wDVvnSyOsw4j_g9qHO3MARoJ3Wtdcj8j?usp=sharing)
 ## Tuyên bố về Quyền sử dụng dữ liệu
 Dữ liệu chỉ được sử dụng cho mục đích học thuật và nghiên cứu phi thương mại. 
 
