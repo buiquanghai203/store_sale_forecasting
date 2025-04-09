@@ -42,6 +42,18 @@ Tập dữ liệu có một số ghi chú quan trọng giúp hiểu rõ các xu 
 ## Mục tiêu
 Mục tiêu chính của dự án này là **xây dựng mô hình học máy** dự báo doanh số bán hàng chính xác nhất có thể, đồng thời đánh giá hiệu quả so với các phương pháp khác trong cuộc thi Kaggle.
 
+## Kết quả
+Sau quá trình xử lý dữ liệu, xây dựng mô hình và tối ưu siêu tham số, mô hình tốt nhất đạt được:
+
+Điểm RMSLE trên tập kiểm tra nội bộ: 0.40125
+
+Xếp hạng trên bảng xếp hạng Kaggle (Private Leaderboard): Top 6% (Vị trí: 41 / 659)
+
+Mô hình sử dụng: 33 mô hình **CatBoost** riêng biệt, mỗi mô hình tương ứng với một nhóm sản phẩm.
+![thanh tich](https://github.com/user-attachments/assets/90faf2dd-0940-47c4-864e-6448a6964d41)
+
+
+
 ## Liên kết hữu ích
 - [Kaggle Competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 - [Kaggle Dataset](https://www.kaggle.com/c/store-sales-time-series-forecasting/data)
