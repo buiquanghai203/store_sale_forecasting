@@ -45,7 +45,7 @@ Mục tiêu chính của dự án này là **xây dựng mô hình học máy** 
 ## Kết quả
 Sau quá trình xử lý dữ liệu, xây dựng mô hình và tối ưu siêu tham số, mô hình tốt nhất đạt được:
 
-Điểm RMSLE trên tập kiểm tra nội bộ: 0.40105
+Điểm RMSLE trên tập kiểm tra nội bộ: **0.40105**
 
 Xếp hạng trên bảng xếp hạng Kaggle (Private Leaderboard): Top 6% (Vị trí: 41 / 659)
 
@@ -65,7 +65,8 @@ Mô hình sử dụng: 33 mô hình **CatBoost** riêng biệt, mỗi mô hình 
 
 Mở file notebook (**store-sale-forecasting-final.ipynb**) để xem quá trình phân tích dữ liệu và xây dựng mô hình.
 
-Nếu một vài biểu đồ không hiển thị có thể xem notebook bằng đường dẫn online qua google colab sau: [NoteBook](https://colab.research.google.com/drive/1wDVvnSyOsw4j_g9qHO3MARoJ3Wtdcj8j?usp=sharing)
+Nếu một vài biểu đồ trong file code không hiển thị có thể xem thay thế bằng đường dẫn online qua google colab sau: [NoteBook](https://colab.research.google.com/drive/1wDVvnSyOsw4j_g9qHO3MARoJ3Wtdcj8j?usp=sharing)
+
 ## Tuyên bố về Quyền sử dụng dữ liệu
 Dữ liệu chỉ được sử dụng cho mục đích học thuật và nghiên cứu phi thương mại. 
 
