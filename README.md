@@ -45,9 +45,9 @@ Mục tiêu chính của dự án này là **xây dựng mô hình học máy** 
 ## Kết quả
 Sau quá trình xử lý dữ liệu, xây dựng mô hình và tối ưu, mô hình tốt nhất đạt được:
 
-Điểm RMSLE trên tập kiểm tra nội bộ: **0.40105**
+- Điểm RMSLE trên tập kiểm tra nội bộ: **0.40105**
 
-Xếp hạng trên bảng xếp hạng Kaggle (Private Leaderboard): Top 6% (Vị trí: 41 / 659)
+- Xếp hạng trên bảng xếp hạng Kaggle (Private Leaderboard): Top 6% (Vị trí: 41 / 659)
 
 Mô hình sử dụng: 33 mô hình **CatBoost** riêng biệt, mỗi mô hình tương ứng với một nhóm sản phẩm.
 
